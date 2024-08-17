@@ -53,7 +53,7 @@ The goal was to perform a funnel analysis for an e-commerce store, focusing on k
 - **BigQuery** for data extraction and SQL queries.
 - **Googlesheet** for data visualization and analysis.
 
-- This is the link to my [spreadsheet]([https://docs.google.com/spreadsheets/d/1A_e-q5ZDMOiVWtaCWS6qksyWw9kA3Ub9QLvAyuV8Vtc/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1Of7Kw0Yh-bIjfY0pTYlM-UTS-VuaEvmEe_P_pFyQTG8/edit?usp=sharing). The spreadsheet shows my **dashboard**, **the data and my workings**, **insights**, and **recommendations**. 
+- This is the link to my [spreadsheet](https://docs.google.com/spreadsheets/d/1Of7Kw0Yh-bIjfY0pTYlM-UTS-VuaEvmEe_P_pFyQTG8/edit?usp=sharing). The spreadsheet shows my **dashboard**, **the data and my workings**, **insights**, and **recommendations**. 
 
 Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here](https://github.com/bayoxx/Funnel-Analysis-for-Ecommerce/blob/main/Funnel%20Analysis.sql)
 
